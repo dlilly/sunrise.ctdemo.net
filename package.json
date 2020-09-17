@@ -1,6 +1,8 @@
 {
-  "name": "scaffold-app",
+  "name": "sunrise",
   "version": "0.1.4",
+  "author": "dave lilly",
+  "license": "MIT",
   "watch": {
     "dev": "src"
   },
@@ -17,12 +19,11 @@
     "node",
     "microservices"
   ],
-  "author": "dave lilly",
-  "license": "MIT",
   "devDependencies": {},
   "dependencies": {
-    "@dlillyatx/scaffold": "^0.1.5",
+    "@dlillyatx/scaffold": "^0.1.19",
     "@google-cloud/pubsub": "^1.6.0",
+    "locale-code": "^2.0.2",
     "lodash": "^4.17.15"
   }
 }
