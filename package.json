@@ -24,6 +24,6 @@
     "@dlillyatx/scaffold": "^0.1.23",
     "@google-cloud/pubsub": "^1.6.0",
     "locale-code": "^2.0.2",
-    "lodash": "^4.17.15"
+    "lodash": "^4.17.21"
   }
 }
